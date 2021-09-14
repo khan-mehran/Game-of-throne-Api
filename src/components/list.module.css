@@ -1,0 +1,13 @@
+ul li{
+    list-style: none;
+}
+ul li:nth-child(even)
+{
+    color: red;
+}
+.todo{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    
+}
